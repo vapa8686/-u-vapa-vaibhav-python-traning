@@ -1,0 +1,5 @@
+from datetime import datetime
+def dateTime():
+    today = datetime.today()
+    print("Today is:", today)
+dateTime()
